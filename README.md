@@ -1,2 +1,3 @@
-# Ola Mundo
- Primeiro repositório do CursoemVideo
+# Olá Mundo
+ Primeiro repositório do CursoemVideo dobre Git e Githb
+ Repositório criado durante uma aula ao vivo!
